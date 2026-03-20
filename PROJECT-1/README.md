@@ -33,8 +33,8 @@ This is a simple notes management system I created using Python.It helps to add,
 1. Clone the repository
 
 ```
-git clone <>
-cd <your-repo-folder>
+git clone <https://github.com/jatin080507/githubutte.git>
+cd githubutte/PROJECT-1
 ```
 
 2. Install required modules
