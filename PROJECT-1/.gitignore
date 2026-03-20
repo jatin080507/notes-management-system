@@ -1,0 +1,36 @@
+# Ignore environment variables
+
+.env
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environments
+
+venv/
+env/
+
+# VS Code settings
+
+.vscode/
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# API keys / secrets
+
+*.key
+
+# Build files
+
+build/
+dist/
+*.egg-info/
